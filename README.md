@@ -1,6 +1,6 @@
-# 朱彦铭 · 数字IC设计工程师
+# zhuyanming· 数字IC设计工程师
 
-海信 · 信芯微电子科技股份有限公司 · TCON/DRIVER 芯片设计
+ TCON/DRIVER 芯片设计
 
 - 🔭 当前工作：TCON/DRIVER 芯片 —— 链路协议通路 RTL 设计、DC 综合与 PT 签核、后端流程脚本化建设
 - 🛠 技术栈：Verilog / SystemVerilog · VCS / Verdi · DC / Fusion Compiler / PT / Innovus · LEC · PTPX / PowerPro
